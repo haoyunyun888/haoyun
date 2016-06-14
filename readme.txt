@@ -3,8 +3,6 @@ stupid boss
 aaaa
 bbbbbbbb
 cccccccccc
-<<<<<<< HEAD
 eeeeeeee
-=======
 dddddddddddddd
->>>>>>> featurel
+
